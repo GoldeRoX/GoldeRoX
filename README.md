@@ -23,9 +23,9 @@
   
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    [![C#](https://img.shields.io/badge/C%23-9.0-blue.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-    [![SQL](https://img.shields.io/badge/SQL-2016-yellow.svg)](https://www.w3schools.com/sql/)
-    [![GDScript](https://img.shields.io/badge/GDScript-3.3-orange.svg)](https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/index.html)
+    [![C#](https://img.shields.io/badge/C%23-blue.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+    [![SQL](https://img.shields.io/badge/SQL-yellow.svg)](https://www.w3schools.com/sql/)
+    [![GDScript](https://img.shields.io/badge/GDScript-orange.svg)](https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/index.html)
 
 <br>   
 
@@ -35,8 +35,8 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     [![MySQL](https://img.shields.io/badge/MySQL-8.0-orange.svg)](https://www.mysql.com/)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    [![Selenium](https://img.shields.io/badge/Selenium-3.141.0-green.svg)](https://www.selenium.dev/)
-    [![Appium](https://img.shields.io/badge/Appium-1.21.0-blue.svg)](http://appium.io/)
+    [![Selenium](https://img.shields.io/badge/Selenium-green.svg)](https://www.selenium.dev/)
+    [![Appium](https://img.shields.io/badge/Appium-blue.svg)](http://appium.io/)
     [![Node.js](https://img.shields.io/badge/Node.js-14.17.5-brightgreen.svg)](https://nodejs.org/)
     [![PyCharm](https://img.shields.io/badge/PyCharm-2021.3-red.svg)](https://www.jetbrains.com/pycharm/)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
