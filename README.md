@@ -26,7 +26,6 @@
     ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
     ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
     ![GDScript](https://img.shields.io/badge/GDScript-000000?style=flat&logo=godot-engine&logoColor=white)
-<br>   
 
 - **Softwares and Tools**:
 
