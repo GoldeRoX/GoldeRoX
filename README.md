@@ -46,8 +46,8 @@
 
 - **Employment History**:
 <br><br>
-**Junior Python Developer**
-*Duration: February 2022 - November 2023*
+**Junior Python Developer**<br>
+*February 2022 - November 2023*
 
 In my role as a Junior Python Developer with 2 years of experience, I spearheaded a project dedicated to collecting statistical data from platforms like 'Amazon Shopping.' Leveraging Python and Appium to interact with the Android emulator, the project seamlessly integrated additional technologies, including FFMPEG, OpenCV, SQL, and MySQL.
 
@@ -60,7 +60,7 @@ In my role as a Junior Python Developer with 2 years of experience, I spearheade
 *Notable Project: [Amazon-Shopping-Ad-Collector](https://github.com/GoldeRoX/Amazon-Shopping-Ad-Collector)*
 <br><br>
 
-**Intern, Military Clinical Hospital, Wrocław**
+**Intern, Military Clinical Hospital, Wrocław**<br>
 *February 2019 - March 2019*
 
 - Office Equipment Support and Direct Technical Support.
@@ -68,7 +68,7 @@ In my role as a Junior Python Developer with 2 years of experience, I spearheade
 - Fiber optic splicing and AP assembly.
 <br><br>
 
-**Freelance Tutor**
+**Freelance Tutor**<br>
 *February 2018 - Present*
 
 I work with young people and students, assisting them in understanding the fundamentals of computer science and programming. Additionally, I prepare them for Technician qualifications, guide them in Matura exam preparation, and provide support in navigating university-level challenges.
