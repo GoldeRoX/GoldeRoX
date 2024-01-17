@@ -42,7 +42,7 @@
 </p>
  <br>
 **Employment History**:
-
+<br><br>
 **Junior Python Developer**
 *Duration: February 2022 - November 2023*
 
@@ -55,9 +55,10 @@ In my role as a Junior Python Developer with 2 years of experience, I spearheade
 - Contributed to the creation of simple websites.
 
 *Notable Project: [Amazon-Shopping-Ad-Collector](https://github.com/GoldeRoX/Amazon-Shopping-Ad-Collector)*
-
+<br>
 **Freelance Tutor**
 *February 2018 - Present*
 
 I work with young people and students, assisting them in understanding the fundamentals of computer science and programming. Additionally, I prepare them for Technician qualifications, guide them in Matura exam preparation, and provide support in navigating university-level challenges.
+<br>
 
