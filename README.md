@@ -56,7 +56,7 @@ In my role as a Junior Python Developer with 2 years of experience, I spearheade
 - Contributed to the creation of simple websites.
 
 *Notable Project: [Amazon-Shopping-Ad-Collector](https://github.com/GoldeRoX/Amazon-Shopping-Ad-Collector)*
-<br>
+<br><br>
 **Freelance Tutor**
 *February 2018 - Present*
 
