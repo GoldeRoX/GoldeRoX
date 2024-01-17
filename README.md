@@ -21,12 +21,11 @@
 
 - **Languages**:
   
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    [![C#](https://img.shields.io/badge/C%23-blue.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-    [![SQL](https://img.shields.io/badge/SQL-yellow.svg)](https://www.w3schools.com/sql/)
-    [![GDScript](https://img.shields.io/badge/GDScript-orange.svg)](https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/index.html)
-
+    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+    ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+    ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
+    ![GDScript](https://img.shields.io/badge/GDScript-000000?style=flat&logo=godot-engine&logoColor=white)
 <br>   
 
 - **Softwares and Tools**:
