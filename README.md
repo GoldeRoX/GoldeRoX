@@ -42,9 +42,8 @@
     ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
 
 </p>
-<br>
 
-- **Employment History**:<br>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Employment History</b>
 
 **Junior Python Developer**<br>
 *February 2022 - November 2023*
