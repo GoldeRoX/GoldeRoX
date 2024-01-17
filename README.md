@@ -40,7 +40,8 @@
     ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
 
 </p>
- <br>
+<br>
+
 **Employment History**:
 <br><br>
 **Junior Python Developer**
