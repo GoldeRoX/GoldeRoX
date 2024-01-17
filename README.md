@@ -43,6 +43,9 @@
  <br>
 **Employment History**:
 
+**Junior Python Developer**
+*Duration: February 2022 - November 2023*
+
 In my role as a Junior Python Developer with 2 years of experience, I spearheaded a project dedicated to collecting statistical data from platforms like 'Amazon Shopping.' Leveraging Python and Appium to interact with the Android emulator, the project seamlessly integrated additional technologies, including FFMPEG, OpenCV, SQL, and MySQL.
 
 **Key Achievements:**
@@ -52,4 +55,9 @@ In my role as a Junior Python Developer with 2 years of experience, I spearheade
 - Contributed to the creation of simple websites.
 
 *Notable Project: [Amazon-Shopping-Ad-Collector](https://github.com/GoldeRoX/Amazon-Shopping-Ad-Collector)*
+
+**Freelance Tutor**
+*February 2018 - Present*
+
+I work with young people and students, assisting them in understanding the fundamentals of computer science and programming. Additionally, I prepare them for Technician qualifications, guide them in Matura exam preparation, and provide support in navigating university-level challenges.
 
