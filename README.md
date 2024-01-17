@@ -44,8 +44,8 @@
 </p>
 <br>
 
-- **Employment History**:
-<br><br>
+- **Employment History**:<br>
+
 **Junior Python Developer**<br>
 *February 2022 - November 2023*
 
