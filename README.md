@@ -75,4 +75,7 @@ I work with young people and students, assisting them in understanding the funda
 <br>
 
 - **Social**:
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/krzysztof-czupryna)
+
+## <img src="https://img.shields.io/badge/📧%20Contact%20Me-ff69b4" width ="150">
+Feel free to contact me via email at [k.czupryna@interia.pl](mailto:k.czupryna@interia.pl).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/).
