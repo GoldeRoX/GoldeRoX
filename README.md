@@ -72,9 +72,7 @@ In my role as a Junior Python Developer with 2 years of experience, I spearheade
 *February 2018 - Present*
 
 I work with young people and students, assisting them in understanding the fundamentals of computer science and programming. Additionally, I prepare them for Technician qualifications, guide them in Matura exam preparation, and provide support in navigating university-level challenges.
-<br>
-
-- **Social**:
+<br><br><br>
 
 ## <img src="https://img.shields.io/badge/📧%20Contact%20Me-ff69b4" width ="150">
 Feel free to contact me via email at [k.czupryna@interia.pl](mailto:k.czupryna@interia.pl).<br>
