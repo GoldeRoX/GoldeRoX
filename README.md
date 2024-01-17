@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Chris </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Chris</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 **About me**
 
@@ -33,13 +33,13 @@
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    [![MySQL](https://img.shields.io/badge/MySQL-8.0-orange.svg)](https://www.mysql.com/)
+    ![MySQL](https://img.shields.io/badge/MySQL-orange.svg)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    [![Selenium](https://img.shields.io/badge/Selenium-green.svg)](https://www.selenium.dev/)
-    [![Appium](https://img.shields.io/badge/Appium-blue.svg)](http://appium.io/)
-    [![Node.js](https://img.shields.io/badge/Node.js-14.17.5-brightgreen.svg)](https://nodejs.org/)
-    [![PyCharm](https://img.shields.io/badge/PyCharm-2021.3-red.svg)](https://www.jetbrains.com/pycharm/)
+    ![Selenium](https://img.shields.io/badge/Selenium-green.svg)
+    ![Appium](https://img.shields.io/badge/Appium-blue.svg)
+    ![Node.js](https://img.shields.io/badge/Node.js-brightgreen.svg)
+    ![PyCharm](https://img.shields.io/badge/PyCharm-red.svg)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    [![Godot](https://img.shields.io/badge/Godot-3.4-blueviolet.svg)](https://godotengine.org/)
+    ![Godot](https://img.shields.io/badge/Godot-3.4-blueviolet.svg)
 
 <br>
