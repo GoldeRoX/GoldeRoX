@@ -42,14 +42,14 @@
     ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
 
 </p>
-
-- **Employment History**:
+ <br>
+**Employment History**:
 
 In my role as a Junior Python Developer with 2 years of experience, I spearheaded a project dedicated to collecting statistical data from platforms like 'Amazon Shopping.' Leveraging Python and Appium to interact with the Android emulator, the project seamlessly integrated additional technologies, including FFMPEG, OpenCV, SQL, and MySQL.
 
 **Key Achievements:**
 - Ensured data accuracy through meticulous verification processes before in-depth analysis.
-- Led the development and administration of the database structure.
+- Led the development and administration of the database structure for the project.
 - Managed Linux administration tasks.
 - Contributed to the creation of simple websites.
 
