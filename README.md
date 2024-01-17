@@ -42,7 +42,8 @@
     ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
 
 </p>
-**Employment History**
+
+- **Employment History**:
 
 In my role as a Junior Python Developer with 2 years of experience, I spearheaded a project dedicated to collecting statistical data from platforms like 'Amazon Shopping.' Leveraging Python and Appium to interact with the Android emulator, the project seamlessly integrated additional technologies, including FFMPEG, OpenCV, SQL, and MySQL.
 
@@ -52,5 +53,5 @@ In my role as a Junior Python Developer with 2 years of experience, I spearheade
 - Managed Linux administration tasks.
 - Contributed to the creation of simple websites.
 
-*Notable Project: [Amazon-Shopping-Ad-Collector](#)*
+*Notable Project: [Amazon-Shopping-Ad-Collector](https://github.com/GoldeRoX/Amazon-Shopping-Ad-Collector)*
 
