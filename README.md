@@ -4,11 +4,11 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- I'm an Engineering student with a focus on IT systems design and data analysis
+- A passionate Self-taught Software developer
+- In my free time, I program my own projects and create games using the Godot engine
+- Currently, I am learning software development, game development, automation, and more
+- I’m currently open for an Intern or a new job opportunity
 
 <br><br>
 
