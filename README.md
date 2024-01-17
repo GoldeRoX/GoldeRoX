@@ -56,7 +56,7 @@ In my role as a Junior Python Developer with 2 years of experience, I spearheade
 - Contributed to the creation of simple websites.
 
 *Notable Project: [Amazon-Shopping-Ad-Collector](https://github.com/GoldeRoX/Amazon-Shopping-Ad-Collector)*
-<br><br><br>
+<br><br>
 
 **Intern, Military Clinical Hospital, Wrocław**
 *February 2019 - March 2019*
@@ -64,7 +64,7 @@ In my role as a Junior Python Developer with 2 years of experience, I spearheade
 - Office Equipment Support and Direct Technical Support.
 - Construction, supervision, and configuration of LAN networks.
 - Fiber optic splicing and AP assembly.
-<br><br><br>
+<br><br>
 
 **Freelance Tutor**
 *February 2018 - Present*
