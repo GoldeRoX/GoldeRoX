@@ -24,7 +24,9 @@
     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
     ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
     ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
+    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
     ![GDScript](https://img.shields.io/badge/GDScript-000000?style=flat&logo=godot-engine&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 - **Softwares and Tools**:
 
@@ -42,7 +44,7 @@
 </p>
 <br>
 
-**Employment History**:
+- **Employment History**:
 <br><br>
 **Junior Python Developer**
 *Duration: February 2022 - November 2023*
@@ -72,3 +74,5 @@ In my role as a Junior Python Developer with 2 years of experience, I spearheade
 I work with young people and students, assisting them in understanding the fundamentals of computer science and programming. Additionally, I prepare them for Technician qualifications, guide them in Matura exam preparation, and provide support in navigating university-level challenges.
 <br>
 
+- **Social**:
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/krzysztof-czupryna)
