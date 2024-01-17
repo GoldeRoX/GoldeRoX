@@ -21,8 +21,8 @@
 
 - **Languages**:
   
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+    ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     [![C#](https://img.shields.io/badge/C%23-blue.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
     [![SQL](https://img.shields.io/badge/SQL-yellow.svg)](https://www.w3schools.com/sql/)
     [![GDScript](https://img.shields.io/badge/GDScript-orange.svg)](https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/index.html)
@@ -31,15 +31,9 @@
 
 - **Softwares and Tools**:
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![MySQL](https://img.shields.io/badge/MySQL-orange.svg)
+    ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Selenium](https://img.shields.io/badge/Selenium-green.svg)
-    ![Appium](https://img.shields.io/badge/Appium-blue.svg)
-    ![Node.js](https://img.shields.io/badge/Node.js-brightgreen.svg)
-    ![PyCharm](https://img.shields.io/badge/PyCharm-red.svg)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Godot](https://img.shields.io/badge/Godot-3.4-blueviolet.svg)
+    [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 <br>
