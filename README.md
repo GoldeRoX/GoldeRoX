@@ -27,7 +27,7 @@
     [![Java](https://img.shields.io/badge/Java-6F4E37?style=flat&logo=java&logoColor=white)](https://www.java.com/)
     ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-    ![GDScript](https://img.shields.io/badge/GDScript-000000?style=flat&logo=godot-engine&logoColor=white)
+    
 
 - **Softwares and Tools**:
 
@@ -40,7 +40,6 @@
     ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
     ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
     ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-    ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
 
 </p>
 
