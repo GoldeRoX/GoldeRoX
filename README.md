@@ -2,7 +2,7 @@
 
 **About me**
 
-<br>
+<br> 
 
 - I'm an Engineering student with a focus on IT systems design and data analysis
 - A passionate Self-taught Software developer
