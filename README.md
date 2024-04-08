@@ -4,7 +4,7 @@
 
 <br> 
 
-- I recently earned a degree in Engineering, specializing in IT systems design and data analysis, marking the culmination of this educational journey. I'm now preparing to embark on a new chapter, pursuing a Master's degree.
+- I recently earned a degree in Engineering, specializing in IT systems design and data analysis, marking the culmination of this educational journey. I'm now preparing to embark on a new chapter, pursuing a Master's degree
 - A passionate Self-taught Software developer
 - In my free time, I program my own projects and create games using the Godot engine
 - Currently, I am learning software development, game development, automation, and more
