@@ -8,7 +8,6 @@
 - A passionate Self-taught Software developer
 - In my free time, I program my own projects and create games using the Godot engine
 - Currently, I am learning software development, game development, automation, and more
-- I’m currently open for an Intern or a new job opportunity
 
 <br><br>
 
